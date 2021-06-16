@@ -10,13 +10,13 @@ public class Circulo {
     }
 
 
-    public double calcularPerimetro(){
+    public double calcularPerimetroC(){
         double perimetroC;
         perimetroC = 3.14 * radio * 2;
         return perimetroC;
     }
 
-    public double calcularArea(){
+    public double calcularAreaC(){
         double areaC;
         areaC = 3.14 * radio * radio;
         return areaC;
